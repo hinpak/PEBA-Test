@@ -5,6 +5,7 @@ PEBA as a better alternative to TPU for 3D Printing
 print: PneuNet actuator, a compilant mechanism, an object of your choice
 
 # Filaments & Print Settings
+Printer used: Bambu Lab P1S
 Drying Setting: 80°C / 8h
 
 ## 1. [eSUN PEBA 90A](https://detail.tmall.com/item.htm?id=982039037506&mi_id=0000wG3tWqlvB4PABsVTj7SUnv2IRtrrQPy8nm-xbsea0Fs&spm=tbpc.boughtlist.suborder_itemtitle.1.6a7c2e8daRjHZ8&sku_properties=205232072%3A93500215)
@@ -17,7 +18,7 @@ Drying Setting: 80°C / 8h
 | Infill Density | 10-40% |
 | Fan | 10-50% |
 
-<!-- [Actual Printing Setting] -->
+Actual Printing Setting: Import the two .json config from /PrintSetting
 
 ## 2. [Siraya Tech PEBA 95A](https://item.taobao.com/item.htm?id=942425589849&mi_id=000003CTrExh_DXCL_G-TLEJRc4K7rkSr_-eD3a74L18XOU&spm=tbpc.boughtlist.suborder_itemtitle.1.6a7c2e8daRjHZ8&skuId=6007898674796)
 
